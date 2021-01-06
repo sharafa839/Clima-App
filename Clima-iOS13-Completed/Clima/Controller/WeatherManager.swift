@@ -2,8 +2,8 @@
 //  WeatherManager.swift
 //  Clima
 //
-//  Created by Angela Yu on 03/09/2019.
-//  Copyright © 2019 App Brewery. All rights reserved.
+//  CCreated by sharaf on 25/12/2020
+//  Copyright © 2020 sharaf. All rights reserved.
 //
 
 import Foundation
